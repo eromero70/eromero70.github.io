@@ -1,19 +1,9 @@
 @charset "UTF-8";
 /* CSS Document */
-<html>
-<head>
-<style>
-p {
-  color: red;
-  text-align: center;
-} 
-</style>
-</head>
-<body>
-
-<p>Hello World!</p>
-<p>These paragraphs are styled with CSS.</p>
-
-</body>
-</html>
-
+body {
+	background-color:#767FC5;
+	font-family: scriptorama-markdown-jf,sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	text-align: center;
+}
