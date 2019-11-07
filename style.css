@@ -1,9 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
 body {
-	background-color:#767FC5;
-	font-family: scriptorama-markdown-jf,sans-serif;
-	font-weight: 900;
-	font-style: normal;
-	text-align: center;
+background-color:#767FC5;
+font-family: bree,sans-serif;
+font-weight: 1600;
+font-style: normal;
 }
